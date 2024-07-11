@@ -11,8 +11,6 @@ Confira o artigo completo no Medium, onde detalho passo a passo como criar um ba
 
 [Como Criar um Banco de Dados NoSQL para um Site de Jogos Digitais usando MongoDB - Tutorial Completo](https://medium.com/@lucasrabeloufba/como-criar-um-banco-de-dados-nosql-para-um-site-de-jogos-digitais-usando-mongodb-tutorial-completo-b0413da5f31e)
 
-## Estrutura do Projeto
 
-- `modelagem/`: Contém os arquivos de modelagem inicial das coleções MongoDB, incluindo detalhes sobre os documentos de usuários, empresas desenvolvedoras de jogos e jogos em si.
-- `consultas_avancadas/`: Exemplos práticos de consultas avançadas usando MongoDB Shell para extrair informações específicas sobre usuários e jogos da plataforma.
-- `otimizacao_desempenho/`: Estratégias e técnicas para otimização de desempenho do MongoDB, abordando índices, agregações e práticas recomendadas.
+
+
